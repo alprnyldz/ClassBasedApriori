@@ -27,9 +27,8 @@ Interactive plotting to enable exploratory data analysis
 Intelligent relative association detection
 Intelligent association filtering
 
-<img width="838" alt="image" src="https://user-images.githubusercontent.com/52410078/141449033-f6e78cef-9150-4c45-be0c-f73d22dcfb52.png">
-
-<img width="824" alt="image" src="https://user-images.githubusercontent.com/52410078/141450610-f0acab2a-cb08-486a-a799-22511821ceca.png">
-<img width="766" alt="image" src="https://user-images.githubusercontent.com/52410078/141451336-d9d1d939-64dd-4b6f-ba46-6d7b9a9be197.png">
-<img width="766" alt="image" src="https://user-images.githubusercontent.com/52410078/141451617-be0624ad-d780-4cdb-bc4d-c9b1b790ed07.png">
-<img width="766" alt="image" src="https://user-images.githubusercontent.com/52410078/141452120-d8e1aeb1-615a-4f73-9a98-076b7fd1338d.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141453792-0c481c04-11a0-45b7-8651-2e559647be11.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141453838-c01a45b9-9aeb-4a2d-8075-e1a6571931c5.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141453980-ae518063-c068-4eb4-b817-ab3fab50aa1d.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141454010-54642edb-67d2-4c6b-86bc-c3c8fab080b4.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141454059-c5936752-618f-4730-b767-ec106ca03b3e.png">
