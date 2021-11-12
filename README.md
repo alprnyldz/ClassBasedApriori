@@ -27,7 +27,8 @@ Interactive plotting to enable exploratory data analysis
 Intelligent relative association detection
 Intelligent association filtering
 
-<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141453792-0c481c04-11a0-45b7-8651-2e559647be11.png">
+
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141454260-b2207bf1-410c-4cba-888e-a40c0b85d134.png">
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141453838-c01a45b9-9aeb-4a2d-8075-e1a6571931c5.png">
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141453980-ae518063-c068-4eb4-b817-ab3fab50aa1d.png">
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/52410078/141454010-54642edb-67d2-4c6b-86bc-c3c8fab080b4.png">
