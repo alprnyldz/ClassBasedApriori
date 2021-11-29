@@ -1,7 +1,8 @@
 # ClassBasedApriori
 
-ClassBasedAppriori is an complex ad-hoc developed association mining algorithm for specific use. 
+ClassBasedAppriori is an complex association mining algorithm created as ad-hoc development* for the company ELİAR Elektronik San. A.Ş., Automation Solutions for Textile and Glass Batch Industries.
 
+ad-hoc development: creating software without any formal guidelines or processes
 
 ## Possible Uses
 - It is possible to mine associations in data with univariate and mutivariate classes.
