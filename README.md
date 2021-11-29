@@ -1,10 +1,7 @@
 # ClassBasedApriori
 
-Apriori is an algorithm for frequent item set mining and association rule learning over relational databases.
 ClassBasedAppriori is an complex ad-hoc developed association mining algorithm for specific use. 
 
-Apriori uses breadth-first search method.
-ClassBasedAppriori uses divide and conquer search method.
 
 ## Possible Uses
 - It is possible to mine associations in data with univariate and mutivariate classes.
@@ -12,7 +9,7 @@ ClassBasedAppriori uses divide and conquer search method.
 - It is possible to mine associations with preselected conditions for root cause analysis.
 
 ## Advantages
-- ClassBasedApriori scans the dataset only twice thanks to divide and conquer search method, where Apriori scans multiple times.
+- ClassBasedApriori scans the dataset only twice thanks to divide and conquer search method, where Apriori scans multiple times using breadth-first search method.
 - ClassBasedApriori finds all possible associations and can run an intelligent algorithm on the associations for data mining.
 - ClassBasedApriori allows user to draw associations within and between different classes.
 - ClassBasedApriori allows user to find associations with certain conditions in a supervised manner.
@@ -25,7 +22,7 @@ ClassBasedAppriori uses divide and conquer search method.
 - On-demand data mining, disabling the brute-force approach
 - Apply parallel processing to improve performance
 - Interactive plotting to enable exploratory data analysis
- - Option to dynamically change support, confidence and lift thresholds while plotting
+- Option to dynamically change support, confidence and lift thresholds while plotting
 - Intelligent relative association detection
 - Intelligent association filtering
 
